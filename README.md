@@ -1,5 +1,5 @@
 # Color-Classifier
-Change some code for colorclassifier 2.0.0   
+fix some bugs for colorclassifier 2.0.0   
 pip install colorclassifier   
 
 ## Usage:   
